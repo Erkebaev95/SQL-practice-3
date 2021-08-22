@@ -88,7 +88,7 @@ WHERE MovieTheaters.Movie IS NULL;
 ```
 
 ```SQL
-8) INSERT INTO Movies(Title,Rating) VALUES('One, Two, Three',NULL);
+8) INSERT INTO Movies(Title, Rating) VALUES('One, Two, Three', NULL);
 ```
 
 ```SQL
